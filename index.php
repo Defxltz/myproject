@@ -1,6 +1,7 @@
 <?php
 // Sample PHP file
-$name = "Mr CNAS";
-$message = "Hello, $name! Welcome to  CNAS 1.";
+$name = "Mr  Dylan- CNAS";
+$message = "Hello, $name! CNAS has been changed.";
 echo $message;
 ?>
+
